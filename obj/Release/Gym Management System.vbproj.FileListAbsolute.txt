@@ -1,0 +1,25 @@
+E:\Manali_project\Gym Management System\Gym Management System\bin\Release\Gym Management System.exe
+E:\Manali_project\Gym Management System\Gym Management System\bin\Release\Gym Management System.pdb
+E:\Manali_project\Gym Management System\Gym Management System\bin\Release\Gym Management System.xml
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\ResolveAssemblyReference.cache
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmAttendence.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmFacilityMaster.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmHealthCheckUp.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmHealthDetails.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmInstructorMaster.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmMainMDI.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmMembershipDetails.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmMembershipRenewal.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmPackageMaster.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmReservationRequest.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.GymManagementSplashForm.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmAbout.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmLogin.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmMemberMaster.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.Resources.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym Management System.vbproj.GenerateResource.Cache
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym Management System.exe
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym Management System.xml
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym Management System.pdb
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmCheckupRepot.resources
+E:\Manali_project\Gym Management System\Gym Management System\obj\Release\Gym_Management_System.frmDailyAttendance.resources
