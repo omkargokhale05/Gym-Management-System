@@ -1,0 +1,19 @@
+1.Health chek up for particular member by member
+
+-  select b.MemberName , b.MobileNo , a.CheckUpDate , a.Month , a.MonthCount , a.Height , a.Weight , a.HeartBeat , a.BMI , a.Chest , a.Waist , a.Biceps  from 
+(select a.MemberID , a.Month , a.MonthCount , a.CheckUpDate , b.Height , b.Weight , b.HeartBeat ,b.BMI , b.Chest , b.Waist , b.Biceps  from HealthCheckUp a, HealthDetails b
+where a.MemberID = 1 and 
+a.HealthID = b.HealthID  
+) a ,
+(select MemberID ,MemberName , MobileNo  from MemberDetails ) b
+where a.MemberID = b.MemberID 
+
+
+2. Daily Attendance Report by date
+
+
+select A.Attdate ,B.MemberID , B.MemberName , B.Gender , A.status , A.Intime , A.OutTime  from AttendenceTable A , MemberDetails B where Attdate='' and 
+a.MemberID = B.MemberID 
+
+
+Membership Report(including fees) by member
